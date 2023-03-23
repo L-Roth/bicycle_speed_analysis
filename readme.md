@@ -1,1 +1,1 @@
-# Simple data analalytics with my recorded bicycle commuting rides.
+# Simple data analalytics on my bike commuting.
